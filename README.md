@@ -6,7 +6,10 @@ List of usefull packages in ROS1 and ROS2 to do robotics.
 - 
 ## SLAM packages
 - Kiss: https://github.com/PRBonn/kiss-icp
-- LIO-SAM: https://github.com/TixiaoShan/LIO-SAM
+- ROS1: LIO-SAM: https://github.com/TixiaoShan/LIO-SAM
+- ROS2: lidar slam: https://github.com/rsasaki0109/lidarslam_ros2
 
-## Navigation package
+## Navigation packages
+- ROS2: Navigation: https://navigation.ros.org/
+- ROS1: Move base: http://wiki.ros.org/move_base
 
